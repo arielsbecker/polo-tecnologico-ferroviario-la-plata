@@ -5,28 +5,28 @@
   <meta:generator>LibreOffice/4.3.7.2$Linux_X86_64 LibreOffice_project/430m0$Build-2</meta:generator>
   <dc:title>Borrador anteproyecto - Polo Tecnológico Ferroviario La Plata</dc:title>
   <meta:initial-creator>Unknown</meta:initial-creator>
-  <meta:editing-cycles>45</meta:editing-cycles>
-  <dc:date>2015-06-01T12:24:37.969695919</dc:date>
+  <meta:editing-cycles>48</meta:editing-cycles>
+  <dc:date>2015-06-01T16:53:35.069655640</dc:date>
   <meta:creation-date>2014-09-04T19:07:25</meta:creation-date>
   
- <meta:editing-duration>PT23H21M54S</meta:editing-duration><dc:description>Borrador del anteproyecto de un polo tecnológico ferroviario en La Plata. Reutilización de los ramales R46, R47 y R48 del Ferrocarril Roca y P/P1 del Ferrocarril Belgrano.</dc:description><meta:keyword>La Plata</meta:keyword><meta:keyword>Taller</meta:keyword><meta:keyword>Gambier</meta:keyword><meta:keyword>Los Hornos</meta:keyword><meta:keyword>Tecnología</meta:keyword><meta:keyword>Ferrocarril</meta:keyword><dc:subject>Polo Tecnológico Ferroviario La Plata</dc:subject><dc:creator>Ariel Sebastián Becker</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="8" meta:paragraph-count="63" meta:word-count="2759" meta:character-count="17812" meta:non-whitespace-character-count="15098"/></office:meta>
+ <meta:editing-duration>PT23H28M11S</meta:editing-duration><dc:description>Borrador del anteproyecto de un polo tecnológico ferroviario en La Plata. Reutilización de los ramales R46, R47 y R48 del Ferrocarril Roca y P/P1 del Ferrocarril Belgrano.</dc:description><meta:keyword>La Plata</meta:keyword><meta:keyword>Taller</meta:keyword><meta:keyword>Gambier</meta:keyword><meta:keyword>Los Hornos</meta:keyword><meta:keyword>Tecnología</meta:keyword><meta:keyword>Ferrocarril</meta:keyword><dc:subject>Polo Tecnológico Ferroviario La Plata</dc:subject><dc:creator>Ariel Sebastián Becker</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="9" meta:paragraph-count="64" meta:word-count="2777" meta:character-count="17928" meta:non-whitespace-character-count="15196"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">199674</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">230505</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaWidth" config:type="long">32863</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">15850</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">14766</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">21188</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">208266</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">17353</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">244112</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">199674</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">230505</config:config-item>
      <config:config-item config:name="VisibleRight" config:type="long">32861</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">215523</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">245269</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -90,9 +90,9 @@
    <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
-   <config:config-item config:name="Rsid" config:type="int">6227974</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">6429291</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">jAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
@@ -114,12 +114,23 @@
    <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
    <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
    <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item-map-indexed config:name="ForbiddenCharacters">
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">es</config:config-item>
+     <config:config-item config:name="Country" config:type="string">ES</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -188,8 +199,10 @@
    <style:paragraph-properties fo:margin-left="0mm" fo:margin-right="10mm" fo:text-indent="0mm" style:auto-text-indent="false"/>
    <style:text-properties fo:color="#b05648" fo:font-size="14pt"/>
   </style:style>
-  <style:style style:name="Footer-Numbering" style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0mm" fo:margin-right="10mm" fo:text-indent="0mm" style:auto-text-indent="false"/>
+  <style:style style:name="Footer-Numbering" style:family="paragraph" style:list-style-name="Numbering_20_1" style:master-page-name="">
+   <style:paragraph-properties style:page-number="auto" text:number-lines="true" text:line-number="1">
+    <style:tab-stops/>
+   </style:paragraph-properties>
    <style:text-properties fo:color="#b05648" fo:font-size="18pt"/>
   </style:style>
   <style:style style:name="Head_20_1" style:display-name="Head 1" style:family="paragraph" style:next-style-name="Standard" style:default-outline-level="1">
@@ -271,10 +284,28 @@
    <style:text-properties fo:color="#808080" fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Frame_20_contents" style:display-name="Frame contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="Numbering_20_6" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="5.98mm" fo:margin-right="0mm" fo:text-indent="-5.98mm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
   <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
   <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
    <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" fo:language="zxx" fo:country="none" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
   </style:style>
   <style:style style:name="Frame" style:family="graphic">
    <style:graphic-properties text:anchor-type="paragraph" svg:x="0mm" svg:y="0mm" fo:margin-left="2.01mm" fo:margin-right="2.01mm" fo:margin-top="2.01mm" fo:margin-bottom="2.01mm" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="1.5mm" fo:border="0.06pt solid #000000"/>
@@ -325,6 +356,58 @@
     </style:list-level-properties>
    </text:outline-level-style>
   </text:outline-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.99mm" fo:text-indent="-4.99mm" fo:margin-left="4.99mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="10mm" fo:text-indent="-4.99mm" fo:margin-left="10mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="14.99mm" fo:text-indent="-4.99mm" fo:margin-left="14.99mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="20mm" fo:text-indent="-4.99mm" fo:margin-left="20mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="24.99mm" fo:text-indent="-4.99mm" fo:margin-left="24.99mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="30mm" fo:text-indent="-4.99mm" fo:margin-left="30mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="35mm" fo:text-indent="-4.99mm" fo:margin-left="35mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="40.01mm" fo:text-indent="-4.99mm" fo:margin-left="40.01mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="45mm" fo:text-indent="-4.99mm" fo:margin-left="45mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="50.01mm" fo:text-indent="-4.99mm" fo:margin-left="50.01mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
   <text:list-style style:name="L4">
    <text:list-level-style-number text:level="1" style:num-suffix="." style:num-format="1">
     <style:list-level-properties/>
@@ -625,8 +708,60 @@
     </style:list-level-properties>
    </text:list-level-style-number>
   </text:list-style>
-  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" style:num-format="1" text:start-value="1" text:footnotes-position="page" text:start-numbering-at="document"/>
-  <text:notes-configuration text:note-class="endnote" text:citation-style-name="Endnote_20_Symbol" text:master-page-name="Endnote" style:num-format="i" text:start-value="1"/>
+  <text:list-style style:name="Numbering_20_6" style:display-name="Numbering 6">
+   <text:list-level-style-number text:level="1" style:num-prefix=" " style:num-suffix=" " style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="12.7mm" fo:text-indent="-6.35mm" fo:margin-left="12.7mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="2">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="19.05mm" fo:text-indent="-6.35mm" fo:margin-left="19.05mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="3">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="25.4mm" fo:text-indent="-6.35mm" fo:margin-left="25.4mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="4">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="31.75mm" fo:text-indent="-6.35mm" fo:margin-left="31.75mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="5">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="38.1mm" fo:text-indent="-6.35mm" fo:margin-left="38.1mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="6">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="44.45mm" fo:text-indent="-6.35mm" fo:margin-left="44.45mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="7">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="50.8mm" fo:text-indent="-6.35mm" fo:margin-left="50.8mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="8">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="57.15mm" fo:text-indent="-6.35mm" fo:margin-left="57.15mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="9">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="63.5mm" fo:text-indent="-6.35mm" fo:margin-left="63.5mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="10">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="69.85mm" fo:text-indent="-6.35mm" fo:margin-left="69.85mm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:default-style-name="Footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" text:master-page-name="Footnote" style:num-format="I" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" text:default-style-name="Endnote" text:citation-style-name="Endnote_20_Symbol" text:citation-body-style-name="Endnote_20_anchor" text:master-page-name="Endnote" style:num-format="1" text:start-value="0"/>
   <text:bibliography-configuration text:prefix="[" text:suffix="]" fo:language="en" fo:country="US"/>
   <text:linenumbering-configuration text:number-lines="false" text:offset="4.99mm" style:num-format="1" text:number-position="left" text:increment="5"/>
  </office:styles>
@@ -751,24 +886,28 @@
   </style:style>
   <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
+   <style:text-properties fo:language="es" fo:country="ES" officeooo:rsid="005f0806" officeooo:paragraph-rsid="005f0806"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties style:use-window-font-color="true" fo:language="es" fo:country="ES" officeooo:rsid="0051f27f" officeooo:paragraph-rsid="0051f27f" fo:background-color="#ffff99"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="es" fo:country="ES" officeooo:rsid="00338f78" officeooo:paragraph-rsid="00338f78"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="es" fo:country="ES" officeooo:rsid="00343728" officeooo:paragraph-rsid="00343728"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties fo:language="es" fo:country="ES" officeooo:rsid="0039278a" officeooo:paragraph-rsid="0039278a"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Heading_20_2">
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="004b41af"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Subtitle">
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Subtitle">
    <style:paragraph-properties fo:break-before="page"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0mm" fo:margin-right="0.35mm" fo:margin-top="0mm" fo:margin-bottom="0mm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0mm" style:auto-text-indent="false" style:writing-mode="lr-tb">
     <style:tab-stops>
      <style:tab-stop style:position="16.09mm" style:type="char" style:char=","/>
@@ -776,37 +915,43 @@
    </style:paragraph-properties>
    <style:text-properties fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
    <style:paragraph-properties fo:margin-left="0mm" fo:margin-right="0mm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0mm" style:auto-text-indent="false" style:page-number="1" style:writing-mode="lr-tb"/>
    <style:text-properties fo:color="#cc0000" fo:language="es" fo:country="ES" fo:font-weight="bold" officeooo:rsid="0021cbf9" officeooo:paragraph-rsid="0032ab92" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
    <style:paragraph-properties fo:margin-left="0mm" fo:margin-right="0mm" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0mm" style:auto-text-indent="false" style:page-number="1" style:writing-mode="lr-tb"/>
    <style:text-properties fo:language="es" fo:country="ES" fo:font-weight="bold" officeooo:rsid="0023db0e" officeooo:paragraph-rsid="0021cbf9" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties fo:language="es" fo:country="ES" officeooo:rsid="002b1975" officeooo:paragraph-rsid="0029a09c"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties fo:language="es" fo:country="ES" officeooo:rsid="002b1975" officeooo:paragraph-rsid="002b1975"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties fo:language="es" fo:country="ES" officeooo:rsid="002eea3f" officeooo:paragraph-rsid="00290e14"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
    <style:paragraph-properties fo:text-align="justify" style:justify-single-word="false"/>
    <style:text-properties fo:language="es" fo:country="ES" officeooo:rsid="005f0806" officeooo:paragraph-rsid="005f0806"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Footer" style:master-page-name="Standard">
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Footer" style:master-page-name="Standard">
    <style:paragraph-properties fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="0mm" fo:margin-bottom="0mm" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="start" style:justify-single-word="false" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0mm" style:auto-text-indent="false" style:page-number="1" fo:background-color="transparent" style:writing-mode="lr-tb">
     <style:background-image/>
    </style:paragraph-properties>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Sans Serif" fo:language="es" fo:country="ES" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" fo:background-color="transparent" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph">
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Endnote" style:list-style-name="Numbering_20_6">
+   <style:text-properties officeooo:paragraph-rsid="005f4bc5"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Endnote">
+   <style:text-properties officeooo:rsid="00621a6b" officeooo:paragraph-rsid="00621a6b"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="0mm" fo:margin-bottom="0mm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0mm" style:writing-mode="lr-tb">
     <style:tab-stops>
      <style:tab-stop style:position="205.9mm" style:type="right"/>
@@ -814,7 +959,7 @@
    </style:paragraph-properties>
    <style:text-properties fo:hyphenate="false"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph">
+  <style:style style:name="P48" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0mm" fo:margin-right="0.35mm" fo:margin-top="0mm" fo:margin-bottom="0mm" fo:line-height="100%" fo:text-align="start" fo:text-indent="0mm" style:writing-mode="lr-tb">
     <style:tab-stops>
      <style:tab-stop style:position="16.08mm" style:type="char" style:char=","/>
@@ -887,6 +1032,9 @@
   </style:style>
   <style:style style:name="T22" style:family="text">
    <style:text-properties officeooo:rsid="005f0806"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties officeooo:rsid="005f4bc5"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties style:vertical-pos="middle" style:vertical-rel="page" style:horizontal-pos="center" style:horizontal-rel="page" fo:background-color="transparent" style:background-transparency="100%" draw:fill="solid" fo:padding="0mm" fo:border="none" style:shadow="none" draw:shadow-opacity="100%">
@@ -1007,6 +1155,7 @@
    </style:footer>
   </style:master-page>
   <style:master-page style:name="Endnote" style:page-layout-name="pm2"/>
+  <style:master-page style:name="Footnote" style:page-layout-name="pm2"/>
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
@@ -1018,50 +1167,55 @@
    </text:sequence-decls>
    <draw:frame text:anchor-type="page" text:anchor-page-number="1" draw:z-index="0" draw:name="Headers" draw:style-name="gr1" svg:width="215.91mm" svg:height="25mm" svg:x="0mm" svg:y="0mm">
     <draw:text-box>
-     <text:p text:style-name="P44"><text:span text:style-name="T21"><text:tab/></text:span></text:p>
+     <text:p text:style-name="P47"><text:span text:style-name="T21"><text:tab/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame text:anchor-type="page" text:anchor-page-number="1" draw:z-index="1" draw:name="Footers" draw:style-name="gr2" svg:width="24.23mm" svg:height="21.51mm" svg:x="0.39mm" svg:y="257.14mm">
     <draw:text-box>
-     <text:p text:style-name="P45"><text:span text:style-name="T21"><text:tab/></text:span></text:p>
+     <text:p text:style-name="P48"><text:span text:style-name="T21"><text:tab/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
-   <text:p text:style-name="P38"><draw:frame draw:style-name="fr1" draw:name="Marco título" text:anchor-type="paragraph" svg:width="156.12mm" draw:z-index="2">
+   <text:p text:style-name="P39"><draw:frame draw:style-name="fr1" draw:name="Marco título" text:anchor-type="paragraph" svg:width="156.12mm" draw:z-index="2">
      <draw:text-box fo:min-height="22.45mm">
-      <text:p text:style-name="P37"><text:span text:style-name="T1">BORRADOR DE </text:span>ANTEPROYECTO</text:p>
+      <text:p text:style-name="P38"><text:span text:style-name="T1">BORRADOR DE </text:span>ANTEPROYECTO</text:p>
       <text:p text:style-name="P4"/>
       <text:p text:style-name="P5">POLO TECNOLÓGICO FERROVIARIO LA PLATA</text:p>
       <text:p text:style-name="P5"/>
       <text:p text:style-name="P6">TALLERES <text:span text:style-name="T10">VÍA Y OBRAS LA PLATA</text:span> – RAMALES <text:span text:style-name="T2">46 y 47 FCGR – RAMALES P Y P1 DEL FCGMB</text:span></text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P35">RESUMEN EJECUTIVO</text:p>
+   <text:p text:style-name="P36">RESUMEN EJECUTIVO</text:p>
    <text:p text:style-name="Heading_20_1">SECCIÓN 1 - ANTECEDENTES</text:p>
-   <text:p text:style-name="P33">1.1 – CONTEXTO GENERAL</text:p>
+   <text:p text:style-name="P34">1.1 – CONTEXTO GENERAL</text:p>
    <text:p text:style-name="P12">El transporte ferroviario de cargas y pasajeros ha perdido protagonismo en Argentina a partir de la década del 60, con la llegada del desarrollismo, del Plan Larkin, las subsiguientes dictaduras militares de corte neoliberal <text:span text:style-name="T8">y las privatizaciones de la década del 90. En ese lapso, las mismas políticas que relegaron el transporte ferroviario, privilegiaron el desarrollo sin criterio del transporte automotor, llevando al escenario actual en donde tenemos pocas autopistas y carriles exclusivos para los camiones, lo que genera accidentes viales diariamente,</text:span></text:p>
-   <text:p text:style-name="P13">Al mismo tiempo, este tratamiento diferencial ha llevado a que el transporte de cargas por ferrocarril sólo represente el 6% del total, con cargas altamente especializadas en manos de empresas que sólo transportan un determinado producto o un conjunto reducido de ellos, como en el caso de Nuevo Central Argentino y Ferrosur Roca.</text:p>
+   <text:p text:style-name="P13">Al mismo tiempo, este tratamiento diferencial ha llevado a que el transporte de cargas por ferrocarril sólo represente el 6% del total<text:note text:id="ftn0" text:note-class="endnote"><text:note-citation>1</text:note-citation><text:note-body>
+      <text:list xml:id="list6344027399505546959" text:style-name="Numbering_20_6">
+       <text:list-item>
+        <text:p text:style-name="P46">Consúltese la <text:a xlink:type="simple" xlink:href="http://www.cnrt.gob.ar/sites/default/files/Datos de explotación histórico hasta 2014.xls" office:target-frame-name="_blank" xlink:show="new" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link">estadística llevada por la CNRT</text:a>.</text:p>
+       </text:list-item>
+      </text:list></text:note-body></text:note>, con cargas altamente especializadas en manos de empresas que sólo transportan un determinado producto o un conjunto reducido de ellos, como en el caso de Nuevo Central Argentino y Ferrosur Roca.</text:p>
    <text:p text:style-name="P13">Numerosos ramales estratégicos se encuentran en estado de total abandono, siendo que los mismos permitirían, en un escenario de operación integral, transportar diversos productos hacia y desde los principales puertos y centros de carga intermodal del país, como son los puertos de Rosario, Buenos Aires, La Plata y Zárate, el Mercado Central de Buenos Aires, las plantas de Exolgan, Propulsora Siderúrgica, playa Colegiales, Patio Parada, Rosario Oeste, y un largo etcétera. Además, se priva a la red ferroviaria de la posibilidad de recuperar los trenes de carga general y variada, con carga en diversos puntos de la red.</text:p>
-   <text:p text:style-name="P14">Con respecto al transporte de pasajeros, en la actualidad y a diferencia de la llamada época de oro del ferrocarril, es necesario replantear los servicios para brindar un mayor confort, eliminando plazas anacrónicas como la “clase turista” e implementando otras que sólo se prestan en pocos servicios, como la bandeja automovilera y el servicio de furgón para grandes bultos. Es necesario determinar cuáles son los actuales requerimientos del turismo y crear ofertas de transporte ferroviario que cubran necesidades que los otros medios de transporte no puedan cubrir, entre los cuales puedo mencionar el transporte de bicicletas, automóviles, bultos de gran peso, muebles, etcétera.</text:p>
-   <text:p text:style-name="P32">1.2 – CONTEXTO <text:span text:style-name="T7">LOCAL</text:span></text:p>
+   <text:p text:style-name="P14">Con respecto al transporte de pasajeros, en la actualidad y a diferencia de la llamada época de oro del ferrocarril, es necesario replantear los servicios para brindar un mayor confort, eliminando plazas anacrónicas como la “clase turista”, <text:span text:style-name="T23">estandarizando el actual pullman como la clase más económica</text:span> e implementando otras que sólo se prestan en pocos servicios, como la bandeja automovilera y el servicio de furgón para grandes bultos. Es necesario determinar cuáles son los actuales requerimientos del turismo y crear ofertas de transporte ferroviario que cubran necesidades que los otros medios de transporte no pued<text:span text:style-name="T23">e</text:span>n cubrir, entre los cuales <text:span text:style-name="T23">se pueden mencionar</text:span> el transporte de bicicletas, automóviles, bultos de gran peso, muebles, etcétera.</text:p>
+   <text:p text:style-name="P33">1.2 – CONTEXTO <text:span text:style-name="T7">LOCAL</text:span></text:p>
    <text:p text:style-name="P9">El partido de La Plata tuvo desde su fundación en 1882 una fuerte identidad ferroviaria. El Pasaje Dardo Rocha, que funcionó durante muchos años como la terminal ferroviaria 19 de Noviembre; la red tranviaria que fue tendida incluso antes de la Fundación oficial de la ciudad; los ferrocarriles Sud, Oeste, Provincial y Compañía General.</text:p>
    <text:p text:style-name="P11">La década de 1940 fue la que tuvo mayor presencia ferroviaria en La Plata, con servicios ferroviarios directos a Avellaneda, Atalaya, Brandsen, González Catán, Haedo, Lezama, Mar del Plata, Mercedes, Mirapampa, Plaza Constitución, Pipinas, Punta Lara y Río <text:soft-page-break/>Santiago; además, pocos puntos en el país había a los que no se pudiera acceder combinando dos o más servicios ferroviarios. <text:span text:style-name="T6">A estos servicios había que sumar los tranviarios, que permitían llegar cómodamente a cualquiera de las estaciones principales sin necesidad de abordar ningún transporte automotor.</text:span></text:p>
    <text:p text:style-name="P10">El desarrollismo, las distintas dictaduras y el menemismo la despojaron de casi todos los servicios ferroviarios, subsistiendo en la actualidad sólo cuatro de ellos: el recientemente implementado Tren Universitario, el servicio regular entre esta ciudad y Plaza Constitución y dos servicios de cargas, uno a la Propulsora Siderúrgica y el otro a Río Santiago.</text:p>
-   <text:p text:style-name="P31">1.<text:span text:style-name="T5">3</text:span> - PRIORIDADES Y OBJETIVOS</text:p>
-   <text:list xml:id="list5751861995249201013" text:style-name="L3">
+   <text:p text:style-name="P32">1.<text:span text:style-name="T5">3</text:span> - PRIORIDADES Y OBJETIVOS</text:p>
+   <text:list xml:id="list7727903774188941617" text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P39">Recuperar <text:span text:style-name="T22">parte del</text:span> predio de los ex Talleres <text:span text:style-name="T10">de Vía y Obras de La Plata</text:span>, ubicado en avenida 31 entre 52 y 55 en la localidad de Los Hornos, partido de La Plata, Buenos Aires, con el propósito de establecer allí un Polo Tecnológico de carácter ferroviario, compartido entre empresas privadas, el Instituto Nacional de Tecnología Industrial, <text:span text:style-name="T9">Trenes Argentinos S. E. y</text:span> SOFSE.</text:p>
+     <text:p text:style-name="P40">Recuperar <text:span text:style-name="T22">parte del</text:span> predio de los ex Talleres <text:span text:style-name="T10">de Vía y Obras de La Plata</text:span>, ubicado en avenida 31 entre 52 y 55 en la localidad de Los Hornos, partido de La Plata, Buenos Aires, con el propósito de establecer allí un Polo Tecnológico de carácter ferroviario, compartido entre empresas privadas, el Instituto Nacional de Tecnología Industrial, <text:span text:style-name="T9">Trenes Argentinos S. E. y</text:span> SOFSE.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P40">Recuperar la <text:span text:style-name="T9">zona de vías</text:span> compartida entre el Ferrocarril General Belgrano y el Ferrocarril Roca entre los Talleres y la estación Circunvalación, así como el ramal 47 del Ferrocarril Roca, entre la estación La Plata Pasajeros y estación Circunvalación (ramal actualmente afectado a la circulación del servicio Tren Universitario), con el objetivo de correr un servicio ferroviario entre la terminal ferroviaria citada y los Talleres.</text:p>
+     <text:p text:style-name="P41">Recuperar la <text:span text:style-name="T9">zona de vías</text:span> compartida entre el Ferrocarril General Belgrano y el Ferrocarril Roca entre los Talleres y la estación Circunvalación, así como el ramal 47 del Ferrocarril Roca, entre la estación La Plata Pasajeros y estación Circunvalación (ramal actualmente afectado a la circulación del servicio Tren Universitario), con el objetivo de correr un servicio ferroviario entre la terminal ferroviaria citada y los Talleres.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P40">R<text:span text:style-name="T4">ehabilitar el</text:span> ramal 46 del Ferrocarril Roca <text:span text:style-name="T22">(entre estaciones Tolosa, La Plata Cargas y Rufino de Elizalde)</text:span> con el fin de extender los servicios ferroviarios del Tren Universitario hasta la estación Rufino de Elizalde, ubicada entre las calles 29, 76, 30 y 81 en la localidad de Los Hornos, La Plata, <text:span text:style-name="T3">y aproximadamente en la progresiva 61,8 km del ramal citado.</text:span></text:p>
+     <text:p text:style-name="P41">R<text:span text:style-name="T4">ehabilitar el</text:span> ramal 46 del Ferrocarril Roca <text:span text:style-name="T22">(entre estaciones Tolosa, La Plata Cargas y Rufino de Elizalde)</text:span> con el fin de extender los servicios ferroviarios del Tren Universitario hasta la estación Rufino de Elizalde, ubicada entre las calles 29, 76, 30 y 81 en la localidad de Los Hornos, La Plata, <text:span text:style-name="T3">y aproximadamente en la progresiva 61,8 km del ramal citado.</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P41">Rehabilitar el ramal 48 del Ferrocarril Roca <text:span text:style-name="T22">(entre las estaciones Ringuelet y Brandsen)</text:span> con el objetivo de recuperar un ramal estratégico para La Plata, para cargas y pasajeros. Esto permitiría fortalecer la economía de la zona de Abasto, Melchor Romero, José Hernández, Gómez, etcétera, creando la posibilidad de trasladar por ferrocarril la producción frutihortícola de esas localidades al Mercado Regional de La Plata. <text:span text:style-name="T22">También permitiría crear una alternativa al transporte automotor para quienes trabajan en el Parque Industrial de La Plata y empresas circundantes (Aluar, por ejemplo).</text:span></text:p>
+     <text:p text:style-name="P42">Rehabilitar el ramal 48 del Ferrocarril Roca <text:span text:style-name="T22">(entre las estaciones Ringuelet y Brandsen)</text:span> con el objetivo de recuperar un ramal estratégico para La Plata, para cargas y pasajeros. Esto permitiría fortalecer la economía de la zona de Abasto, Melchor Romero, José Hernández, Gómez, etcétera, creando la posibilidad de trasladar por ferrocarril la producción frutihortícola de esas localidades al Mercado Regional de La Plata. <text:span text:style-name="T22">También permitiría crear una alternativa al transporte automotor para quienes trabajan en el Parque Industrial de La Plata y empresas circundantes (Aluar, por ejemplo).</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P42">Recuperar para uso ferroviario el cuadro de estación de La Plata FCGMB (conocida <text:s/>popularmente como Meridiano V). El mismo cuenta con vías de trocha métrica y ancha. Es posible construir en el mismo una parada adicional para el servicio de Tren Universitario.</text:p>
+     <text:p text:style-name="P43">Recuperar para uso ferroviario el cuadro de estación de La Plata FCGMB (conocida <text:s/>popularmente como Meridiano V). El mismo cuenta con vías de trocha métrica y ancha. Es posible construir en el mismo una parada adicional para el servicio de Tren Universitario.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Heading_20_1"><text:soft-page-break/>SECCIÓN 2 – FUNDAMENTOS</text:p>
@@ -1073,14 +1227,14 @@
    <text:p text:style-name="P20">Colocar aquí el desarrollo de lo esperado en el proyecto: creación de empleos directos e indirectos; reactivación de los dos talleres <text:span text:style-name="T16">de Vïa y Obra de </text:span>Los Hornos, y Tolosa; cooperación económica y productiva entre éstos y Astilleros Río Santiago, YPF, el Puerto y las industrias pesadas de la zona; reapertura de ramales clausurados por la dictadura. <text:span text:style-name="T11">Además señalar la intervención directa del Instituto Argentino del Transporte, el Laboratorio de Transporte Ferroviario y las inversiones estratégicas de la República Popular de China.</text:span></text:p>
    <text:p text:style-name="Heading_20_2">2.3 – <text:span text:style-name="T12">JUSTIFICACIÓN DEL PROYECTO</text:span></text:p>
    <text:p text:style-name="P18">Explicar brevemente la necesidad de contar con un Polo Tecnológico Ferroviario que utilice un predio históricamente utilizado para tal fin; justificar su emplazamiento en el ex taller de Vía y Obra de La Plata debido a la infraestructura allí existente; asimismo la existencia de mano de obra tradicional allí, la necesidad de cumplir con un objetivo incumplido desde 2003 (véase Néstor Kirchner 2003) y la oportunidad de conformar una sede permanente para el Instituto Argentino del Transporte y el Laboratorio de Transporte Ferroviario del Instituto Nacional de Tecnología Industrial, <text:span text:style-name="T13">así como empresas privadas del sector, anexos de distintas universidades nacionales y una biblioteca técnica <text:s/>especializada.</text:span></text:p>
-   <text:p text:style-name="P34">2.4 – ANTECEDENTES Y ACTIVIDADES ASOCIADAS</text:p>
+   <text:p text:style-name="P35">2.4 – ANTECEDENTES Y ACTIVIDADES ASOCIADAS</text:p>
    <text:p text:style-name="P16">Redactar una breve historia del taller de Vía y Obras: sus actividades en el pasado, las actividades en Talleres Tolosa, los servicios ferroviarios ofrecidos en la zona de La Plata hasta 1977 (poner especial énfasis en los servicios a Magdalena, Atalaya y Pipinas, los servicios a Brandsen y los servicios de cargas vía CGBA y FCPBA).</text:p>
    <text:p text:style-name="P15">Explicar la potencial integración del Polo Tecnológico Ferroviario con la industria de la zona de Ensenada y Berisso (Propulsora Siderúrgica, Astilleros Río Santiago, YPF, el Polo <text:soft-page-break/>Petroquímico en general, etcétera). Con respecto a la reactivación de ramales como el <text:span text:style-name="T17">R-</text:span>48, indicar su necesidad para el sector frutihortícola de Abasto, Melchor Romero, José Hernández y demás.</text:p>
    <text:p text:style-name="P17">Sobre las actividades asociadas, enumerar: sector petroquímico (transportes vía ramal G-3 <text:span text:style-name="T18">FCGB o R-37 FCGR </text:span>hacia el oeste), sector siderúrgico (actual servicio de NCA), sector minero (el viejo ramal a Punta Piedras), sector militar (servicios especiales entre Magdalena y la Patagonia), sector de cargas generales (frutihortícola hacia/desde el Mercado Regional y el Mercado Central), comestibles hacia y desde el Mercado Central vía Mármol, transporte de contenedores desde y hacia el puerto, etcétera. SEÑALAR TODOS LOS PUNTOS CON POTENCIAL EN LA ACTUALIDAD Y QUE NO SE ESTÉN EXPLOTANDO.</text:p>
    <text:p text:style-name="Heading_20_1">3 – MARCO DEL PROYECTO</text:p>
    <text:p text:style-name="Heading_20_2"><text:span text:style-name="T14">3</text:span>.<text:span text:style-name="T14">1</text:span> – <text:span text:style-name="T14">EFECTOS</text:span></text:p>
-   <text:p text:style-name="P30">Escribir aquí brevemente los efectos que busca el proyecto: reducir el <text:span text:style-name="T15">índice de </text:span>desempleo en <text:span text:style-name="T15">la zona de </text:span>La Plata, reactivar los ramales ferroviarios estratégicos de la zona tanto para pasajeros como para cargas, interconectar el puerto con el Mercado Regional de Frutos y el Mercado Central, La Plata Cargas, Propulsora, YPF, Talleres Tolosa, Vía y Obras Los Hornos <text:span text:style-name="T15">y</text:span> Astilleros Río Santiago; mencionar también la interconexión estratégica de los puertos de La Plata, Buenos Aires y Rosario, y la conformación de una red de transporte ferroviario de cargas con distintas playas de clasificación como Ensenada, La Plata, Tolosa, Brandsen, Villa Elisa, etcétera.</text:p>
-   <text:p text:style-name="P30">Mencionar la instalación en los talleres de Vía y Obras de Los Hornos de filiales de los consorcios chinos CSR/CNR y de otras empresas ferroviarias nacionales y del Mercosur. El establecimiento de una sede permanente para el Instituto Argentino del Transporte y para el Laboratorio de Transporte Ferroviario del Instituto Nacional de Tecnología Industrial.</text:p>
+   <text:p text:style-name="P31">Escribir aquí brevemente los efectos que busca el proyecto: reducir el <text:span text:style-name="T15">índice de </text:span>desempleo en <text:span text:style-name="T15">la zona de </text:span>La Plata, reactivar los ramales ferroviarios estratégicos de la zona tanto para pasajeros como para cargas, interconectar el puerto con el Mercado Regional de Frutos y el Mercado Central, La Plata Cargas, Propulsora, YPF, Talleres Tolosa, Vía y Obras Los Hornos <text:span text:style-name="T15">y</text:span> Astilleros Río Santiago; mencionar también la interconexión estratégica de los puertos de La Plata, Buenos Aires y Rosario, y la conformación de una red de transporte ferroviario de cargas con distintas playas de clasificación como Ensenada, La Plata, Tolosa, Brandsen, Villa Elisa, etcétera.</text:p>
+   <text:p text:style-name="P31">Mencionar la instalación en los talleres de Vía y Obras de Los Hornos de filiales de los consorcios chinos CSR/CNR y de otras empresas ferroviarias nacionales y del Mercosur. El establecimiento de una sede permanente para el Instituto Argentino del Transporte y para el Laboratorio de Transporte Ferroviario del Instituto Nacional de Tecnología Industrial.</text:p>
    <text:p text:style-name="Heading_20_2">3.2 – RESULTADOS Y PRODUCTOS</text:p>
    <text:p text:style-name="P22">Enumerar con la mayor brevedad posible los resultados e, indentados con respecto a éstos, los productos esperables de cada uno de los resultados.</text:p>
    <text:p text:style-name="Heading_20_2">3.3 – SUSTENTABILIDAD</text:p>
