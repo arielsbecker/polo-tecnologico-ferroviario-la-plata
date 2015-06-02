@@ -26,3 +26,7 @@ El objetivo es plantear un polo, de carácter tecnológico para el desarrollo de
 * Proveer al partido de La Plata de una fuente de trabajo estable y útil a los intereses del Estado Nacional.
 * Proveer a Ferrocarriles Argentinos de profesionales y técnicos altamente capacitados.
 * Poner en valor la infraestructura ferroviaria ociosa o con actividades por debajo de su máxima capacidad.
+
+## Seguimiento del proyecto
+
+En la [página de hitos o milestones](https://github.com/arielsbecker/polo-tecnologico-ferroviario-la-plata/milestones) se puede realizar el seguimiento de este proyecto. Cada hito tiene distintos issues asignados. Cada uno de estos issues representa una tarea pendiente, ya sea un trabajo requerido, una corrección, una mejora, etcétera.
