@@ -2,6 +2,10 @@ polo-tecnologico-ferroviario-la-plata
 
 # Polo Tecnológico Ferroviario La Plata
 
+## Instrucciones de uso
+
+Véase [la página principal de la Wiki](https://github.com/arielsbecker/polo-tecnologico-ferroviario-la-plata/wiki/Página-principal).
+
 ## Anteproyecto
 
 ### Objetivos
